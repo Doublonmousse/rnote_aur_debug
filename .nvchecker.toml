@@ -1,4 +1,4 @@
 [rnote]
 source = "git"
-git = "https://github.com/flxzt/rnote.git"
+git = "https://github.com/Doublonmousse/rnote.git"
 prefix = "v"
