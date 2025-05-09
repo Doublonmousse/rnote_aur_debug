@@ -18,6 +18,6 @@ pkgbase = rnote
 	depends = alsa-lib
 	options = !lto
 	source = rnote-debug_1258_unsaved_indicator.tar.gz::https://github.com/Doublonmousse/rnote/archive/refs/heads/debug_1258_unsaved_indicator.tar.gz
-	b2sums = 3e9078a40b892be02b7e653579966aac5d8157ad8db38a61d9a56cc7428206b31829d83ce440577a567a5c580c26ad01f811ff7fc0d07ce73422c09ea020fa11
+	b2sums = efd3b1ebf30f805fc5760672233f2d5af92760e374d126b91e48351ee65ffc33428f3e15b9743dca965ae9b18b2e5444cf38ef2c1aaae6281c5ec9b4626b048e
 
 pkgname = rnote
